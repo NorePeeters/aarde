@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="]w@gH0q+I7=OX:FAD2S[">naar aarde</variable><variable id="KSh#))WfvE`]a+XM_C+j">pijl</variable><variable id="+JW#`[BZPEY,z-ct;}Mm">naar bineden</variable></variables><block type="device_gesture_event" id="LSkFTL_2:8gIF}r|Mx}S" x="353" y="-122"><field name="NAME">Gesture.TiltLeft</field><statement name="HANDLER"><block type="device_show_leds" id="Chk2VAXsyH;=[}*-y^l{"><field name="LEDS">`
+        . . # . . 
+        . # . . . 
+        # # # # # 
+        . # . . . 
+        . . # . .
+        `</field></block></statement></block><block type="device_gesture_event" id="wknHr)K|:nwj66.#:L,c" x="800" y="132"><field name="NAME">Gesture.LogoDown</field><statement name="HANDLER"><block type="device_show_leds" id="#RNig;Z2l.d]B4{)MMbc"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # . # . # 
+        . . # . . 
+        . . # . .
+        `</field></block></statement></block><block type="device_gesture_event" id="LX1hv$(71Q@#:`GX477t" x="508" y="219"><field name="NAME">Gesture.LogoUp</field><statement name="HANDLER"><block type="device_show_leds" id="jC6mxDnHn$D0Q!GYJm99"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # . # . # 
+        . # # # . 
+        . . # . .
+        `</field></block></statement></block><block type="device_gesture_event" id="pKMrko`(XYLKOoMhM{yT" x="1041" y="195"><field name="NAME">Gesture.TiltRight</field><statement name="HANDLER"><block type="device_show_leds" id="`?1GX+0ilj.`RFI{;FPX"><field name="LEDS">`
+        . . # . . 
+        . . . # . 
+        # # # # # 
+        . . . # . 
+        . . # . .
+        `</field></block></statement></block><block type="pxt-on-start" id="qHRezcUJWoX3iWavdqfS" x="197" y="422"><statement name="HANDLER"><block type="device_show_leds" id="gH$k/ZF@{yVyp-0k2tkx"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # . # . # 
+        . # # # . 
+        . . # . .
+        `</field></block></statement></block></xml>
